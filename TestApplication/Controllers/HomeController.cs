@@ -10,7 +10,7 @@ namespace TestApplication.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modified this template to jump-start your ASP.NET MVC application. By Omer Arif in V1.1 With Umar Munir";
+            ViewBag.Message = "Modified this template to jump-start your ASP.NET MVC application. CHanges on azure now";
 
             return View();
         }
